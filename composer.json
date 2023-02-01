@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.7",
+        "ultramsg/whatsapp-php-sdk": "^2.0"
+    }
+}
